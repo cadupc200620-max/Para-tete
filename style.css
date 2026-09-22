@@ -77,12 +77,12 @@ h1{
 }
 
 #poema{
-
     font-size:18px;
-
     line-height:1.6;
-
     min-height:auto;
+
+    max-height:250px;
+    overflow-y:auto;
 }
 #finalBtn{
 
